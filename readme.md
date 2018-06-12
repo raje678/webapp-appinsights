@@ -9,3 +9,6 @@ that shows how to:
 * Configure the AppInsights Instrumentation Key on the WebApp
 * Deploy the Application Insights site extension on the WebApp
 * Associate the WebApp and Application Insights resources so that the portal experience is complete
+<a href="https://azuredeploy.net/" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
